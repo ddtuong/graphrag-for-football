@@ -1,0 +1,447 @@
+[
+    {
+        "question": "Which club did Romelu Lukaku play for in 2020?",
+        "answer": "(INT)",
+        "response": "Romelu Lukaku played for Inter Milan in 2020."
+    },
+    {
+        "question": "Which club did Iago Aspas play for in 2018?",
+        "answer": "(CEL)",
+        "response": "In 2018, Iago Aspas played for the club (CEL)."
+    },
+    {
+        "question": "Which club did Diego Rossi play for in 2020?",
+        "answer": "(LAF)",
+        "response": "In 2020, Diego Rossi played for the club (LAF)."
+    },
+    {
+        "question": "Which club did Steven Berghuis play for in 2019?",
+        "answer": "(FEY)",
+        "response": "In 2019, Steven Berghuis played for the club (FEY), which is represented as Feyenoord."
+    },
+    {
+        "question": "Which club did Keita Balde play for in 2016?",
+        "answer": "(SAM)",
+        "response": "In 2016, Keita Balde played for Lazio."
+    },
+    {
+        "question": "Which club did Alerrandro  play for in 2020?",
+        "answer": "(RBB)",
+        "response": "Alerrandro played for Atlético Mineiro in 2020."
+    },
+    {
+        "question": "Which club did Ayoze Perez play for in 2018?",
+        "answer": "(LEI)",
+        "response": "Ayoze Perez did not play for the club listed in the context, '(LEI)', in 2018. Therefore, I cannot provide information about his time with that club. To provide a comprehensive answer, I would need data about the clubs Ayoze Perez played for in 2018 from the knowledge graph."
+    },
+    {
+        "question": "Which club did Maxi Gomez play for in 2018?",
+        "answer": "(VAL)",
+        "response": "In 2018, Maxi Gomez played for:\n\n*   **Club:** Celta Vigo\n    *   **Year:** 2018"
+    },
+    {
+        "question": "Which club did Daryl Dike play for in 2020?",
+        "answer": "(ORL)",
+        "response": "In 2020, Daryl Dike played for Orlando City SC, which is abbreviated as (ORL)."
+    },
+    {
+        "question": "Which club did Angel Rodriguez play for in 2020?",
+        "answer": "(GET)",
+        "response": "Ángel Rodríguez played for Getafe CF in 2020."
+    },
+    {
+        "question": "Which club did Gregoire Defrel play for in 2016?",
+        "answer": "(SAS)",
+        "response": "In 2016, Gregoire Defrel played for the club **(SAS)**."
+    },
+    {
+        "question": "Which club did Mohamed Salah play for in 2020?",
+        "answer": "(LIV)",
+        "response": "Mohamed Salah played for Liverpool (LIV) in 2020."
+    },
+    {
+        "question": "Which club did Myron Boadu play for in 2020?",
+        "answer": "(AZA)",
+        "response": "In 2020, Myron Boadu played for the club (AZA)."
+    },
+    {
+        "question": "Which club did Arjen Robben play for in 2016?",
+        "answer": "(GRO)",
+        "response": "Arjen Robben did not play for the club (GRO) in 2016. I do not have the information about which club Arjen Robben played for in 2016 from the knowledge graph."
+    },
+    {
+        "question": "Which club did Ludovic Ajorque play for in 2019?",
+        "answer": "(STR)",
+        "response": "In 2019, Ludovic Ajorque played for RC Strasbourg."
+    },
+    {
+        "question": "Which club did Wellington Paulista play for in 2017?",
+        "answer": "(FOR)",
+        "response": "Wellington Paulista played for the club Chapecoense in 2017."
+    },
+    {
+        "question": "Which club did Georgios Giakoumakis play for in 2019?",
+        "answer": "(VVV)",
+        "response": "Georgios Giakoumakis played for (VVV) in 2019."
+    },
+    {
+        "question": "Which club did Arkadiusz Milik play for in 2018?",
+        "answer": "(NAP)",
+        "response": "Arkadiusz Milik played for Napoli (NAP) in 2018."
+    },
+    {
+        "question": "Which club did Toni MartÃ­nez play for in 2019?",
+        "answer": "(POR)",
+        "response": "Toni Martínez played for (POR) in 2019."
+    },
+    {
+        "question": "Which club did Raul de Tomas play for in 2018?",
+        "answer": "(ESP)",
+        "response": "Raul de Tomas played for Rayo Vallecano in 2018."
+    },
+    {
+        "question": "Which club did Sergio Ramos play for in 2019?",
+        "answer": "(RMA)",
+        "response": "In 2019, Sergio Ramos played for Real Madrid, which is abbreviated as (RMA) in the knowledge graph."
+    },
+    {
+        "question": "Which club did Kevin Volland play for in 2019?",
+        "answer": "(MON)",
+        "response": "In 2019, Kevin Volland played for:\n\n*   **Club:** Bayer 04 Leverkusen"
+    },
+    {
+        "question": "Which club did Andrea Belotti play for in 2020?",
+        "answer": "(TOR)",
+        "response": "In 2020, Andrea Belotti played for Torino (TOR)."
+    },
+    {
+        "question": "Which club did Vangelis Pavlidis play for in 2020?",
+        "answer": "(WIL)",
+        "response": "In 2020, Vangelis Pavlidis played for Willem II, which is also known as (WIL)."
+    },
+    {
+        "question": "Which club did Trincao  play for in 2019?",
+        "answer": "(BAR)",
+        "response": "In 2019, Trincao played for Braga B and Braga."
+    },
+    {
+        "question": "Which club did Pottker  play for in 2016?",
+        "answer": "None",
+        "response": "In 2016, Pottker played for:\n\n*   **Linense** (Campeonato Paulista)\n*   **Red Bull Brasil** (Campeonato Brasileiro Série D)\n*   **S.C. Braga B**"
+    },
+    {
+        "question": "Which club did Robinho  play for in 2016?",
+        "answer": "None",
+        "response": "In 2016, Robinho played for the club Atlético Mineiro."
+    },
+    {
+        "question": "Which club did Nene  play for in 2020?",
+        "answer": "(FLU)",
+        "response": "Nene played for Fluminense in 2020."
+    },
+    {
+        "question": "Which club did Ludovic Blas play for in 2020?",
+        "answer": "(NAN)",
+        "response": "Ludovic Blas played for FC Nantes in 2020."
+    },
+    {
+        "question": "Which club did Gilberto  play for in 2018?",
+        "answer": "(BAH)",
+        "response": "I cannot answer this question because the knowledge graph is empty. I do not have any information about which club Gilberto played for in 2018."
+    },
+    {
+        "question": "Which club did Roger Guedes  play for in 2018?",
+        "answer": "None",
+        "response": "In 2018, Roger Guedes played for the following club:\n\n*   **Roger Guedes**\n\n    *   Club: Atlético Mineiro"
+    },
+    {
+        "question": "Which club did Angel Rodriguez play for in 2019?",
+        "answer": "(GET)",
+        "response": "Ángel Rodríguez played for Getafe CF in 2019."
+    },
+    {
+        "question": "Which club did Pedro None play for in 2016?",
+        "answer": "(ROM)",
+        "response": "```json\n[\n  {\n    \"club\": \"AS Roma\",\n    \"year\": 2016\n  }\n]\n```\n\nPedro None played for AS Roma (ROM) in 2016."
+    },
+    {
+        "question": "Which club did Cyril Thereau play for in 2016?",
+        "answer": "Cyril",
+        "response": "Cyril Thereau played for the club Udinese in 2016."
+    },
+    {
+        "question": "Which club did Danilo Nome play for in 2019?",
+        "answer": "(TWE)",
+        "response": "Danilo Nome played for (TWE) in 2019."
+    },
+    {
+        "question": "Which club did Son Heung-Min play for in 2019?",
+        "answer": "(TOT)",
+        "response": "In 2019, Son Heung-Min played for Tottenham Hotspur, which is abbreviated as (TOT) in the knowledge graph."
+    },
+    {
+        "question": "Which club did Romelu Lukaku play for in 2019?",
+        "answer": "(INT)",
+        "response": "Romelu Lukaku played for Inter Milan in 2019."
+    },
+    {
+        "question": "Which club did Sergej Milinkovic-Savic play for in 2017?",
+        "answer": "(LAZ)",
+        "response": "In 2017, Sergej Milinkovic-Savic played for the club (LAZ), which is likely S.S. Lazio."
+    },
+    {
+        "question": "Which club did Nani  play for in 2019?",
+        "answer": "(ORL)",
+        "response": "In 2019, Nani played for Orlando City SC."
+    },
+    {
+        "question": "Which club did Antoine Griezmann play for in 2020?",
+        "answer": "(BAR)",
+        "response": "In 2020, Antoine Griezmann played for (BAR)."
+    },
+    {
+        "question": "Summarize Kevin Volland's performance in 2019.",
+        "answer": "Kevin Volland played 24 matches for (MON) in Bundesliga, scoring 10 goals in 2159 minutes with an expected goals (xG) of 11.59.",
+        "response": "In 2019, Kevin Volland's performance included the following statistics:\n\n*   **Goals:** 10\n*   **Matches:** 24\n*   **Minutes Played:** 2159\n*   **Shots:** 78\n*   **Substitutions:** 3\n*   **Expected Goals (xG):** 11.59"
+    },
+    {
+        "question": "Summarize Matavz 's performance in 2020.",
+        "answer": "Matavz  played 24 matches for Tim in Eredivisie, scoring 12 goals in 2157 minutes with an expected goals (xG) of 9.08.",
+        "response": "In 2020, Tim Matavž played for two clubs: Vitesse and Al Wahda. Here's a summary of his performance:\n\n*   **Vitesse (January 2020 - July 2020):**\n    *   Goals: 1\n    *   Matches: 7\n*   **Al Wahda (August 2020 - December 2020):**\n    *   Goals: 2\n    *   Matches: 12"
+    },
+    {
+        "question": "Summarize Santi Mina's performance in 2017.",
+        "answer": "Santi Mina played 17 matches for (CEL) in La Liga, scoring 12 goals in 1630 minutes with an expected goals (xG) of 9.44.",
+        "response": "Based on the provided data, here's a summary of Santi Mina's performance in 2017:\n\n*   **Player:** Santi Mina\n*   **Goals:** 12\n*   **Matches Played:** 17\n*   **Minutes Played:** 1630\n*   **Shots:** 43\n*   **Substitutions:** 15\n*   **Expected Goals (xG):** 9.44"
+    },
+    {
+        "question": "Summarize Felipe Gutierrez's performance in 2019.",
+        "answer": "Felipe Gutierrez played 31 matches for (SKC) in MLS, scoring 12 goals in 2905 minutes with an expected goals (xG) of 9.48.",
+        "response": "In 2019, Felipe Gutierrez's performance is characterized by the following statistics:\n\n*   **Goals:** 12\n*   **Matches Played:** 31\n*   **Minutes Played:** 2905\n*   **Shots:** 65\n*   **Substitutions:** 1\n*   **Expected Goals (xG):** 9.48"
+    },
+    {
+        "question": "Summarize Thiago Neves's performance in 2017.",
+        "answer": "Thiago Neves played 30 matches for (SCR) in Campeonato Brasileiro SÃ©rie A, scoring 9 goals in 2383 minutes with an expected goals (xG) of 10.54.",
+        "response": "In 2017, Thiago Neves's performance included the following statistics:\n\n*   **Goals:** 9\n*   **Matches:** 30\n*   **Minutes Played:** 2383\n*   **Shots:** 102\n*   **Substitutions:** 3\n*   **Expected Goals (xG):** 10.54"
+    },
+    {
+        "question": "Summarize Iago Falque's performance in 2017.",
+        "answer": "Iago Falque played 34 matches for (BEN) in Serie A, scoring 12 goals in 2950 minutes with an expected goals (xG) of 9.01.",
+        "response": "In 2017, Iago Falque's performance is characterized by the following statistics:\n\n- **Full Name:** Iago Falque\n- **Goals:** 12\n- **Matches Played:** 34\n- **Minutes Played:** 2950\n- **Shots:** 76\n- **Substitutions:** 3\n- **Expected Goals (xG):** 9.01"
+    },
+    {
+        "question": "Summarize Angel Rodriguez's performance in 2019.",
+        "answer": "Angel Rodriguez played 9 matches for (GET) in La Liga, scoring 10 goals in 1611 minutes with an expected goals (xG) of 8.14.",
+        "response": "Angel Rodriguez's performance in 2019:\n*   **Goals:** 10\n*   **Matches:** 9\n*   **Minutes Played:** 1611\n*   **Shots:** 53\n*   **Substitutions:** 23\n*   **Expected Goals (xG):** 8.14"
+    },
+    {
+        "question": "Summarize Antoine Griezmann's performance in 2017.",
+        "answer": "Antoine Griezmann played 30 matches for (BAR) in La Liga, scoring 19 goals in 2596 minutes with an expected goals (xG) of 15.58.",
+        "response": "In 2017, Antoine Griezmann's performance is characterized by the following statistics:\n \n *   **Full Name:** Antoine Griezmann\n *   **Goals:** 19\n *   **Matches Played:** 30\n *   **Minutes Played:** 2596\n *   **Shots:** 72\n *   **Substitutions:** 2\n *   **Expected Goals (xG):** 15.58\n \n These statistics provide a snapshot of Griezmann's contributions in 2017, reflecting his goal-scoring ability, playing time, and overall attacking involvement. The xG value suggests he exceeded his expected goal tally, indicating efficient finishing."
+    },
+    {
+        "question": "Summarize Neymar 's performance in 2019.",
+        "answer": "Neymar  played 15 matches for (PSG) in France Ligue 7, scoring 12 goals in 1396 minutes with an expected goals (xG) of 15.87.",
+        "response": "In 2019, Neymar da Silva Santos Júnior played for Paris Saint-Germain (PSG). Here's a summary of his performance:\n\n*   **Goals:** He scored 23 goals.\n*   **Matches Played:** He played in 27 matches."
+    },
+    {
+        "question": "Summarize Nuno Santos's performance in 2019.",
+        "answer": "Nuno Santos played 6 matches for (LIS) in Primeira Liga, scoring 3 goals in 567 minutes with an expected goals (xG) of 1.55.",
+        "response": "In 2019, Nuno Santos's performance is characterized by the following statistics:\n*   **Full Name:** Nuno Santos\n*   **Goals:** 3\n*   **Matches Played:** 6\n*   **Minutes Played:** 567\n*   **Shots:** 10\n*   **Substitutions:** 2\n*   **Expected Goals (xG):** 1.55"
+    },
+    {
+        "question": "Summarize Juanmi Callejon's performance in 2016.",
+        "answer": "Juanmi Callejon played 19 matches for (BET) in La Liga, scoring 11 goals in 1849 minutes with an expected goals (xG) of 6.62.",
+        "response": "Based on the provided data, here is a summary of Juanmi Callejon's performance in 2016:\n\n*   **Player:** Juanmi Callejon\n*   **Year:** 2016\n*   **Goals:** 11\n*   **Matches:** 19\n*   **Minutes Played:** 1849\n*   **Shots:** 48\n*   **Substitutions:** 16\n*   **Expected Goals (xG):** 6.62"
+    },
+    {
+        "question": "Summarize Morales 's performance in 2018.",
+        "answer": "Morales  played 35 matches for (LEV) in La Liga, scoring 12 goals in 3381 minutes with an expected goals (xG) of 13.52.",
+        "response": "Here's a summary of José Luis Morales's performance in 2018, based on the available information:\n\n*   **Player Name:** José Luis Morales Nogales\n*   **Goals Scored:** 12\n*   **Matches Played:** 37\n*   **Year:** 2018\n*   **Club:** Levante UD\n*   **League:** La Liga"
+    },
+    {
+        "question": "Summarize Luiz Fernando's performance in 2017.",
+        "answer": "Luiz Fernando played 21 matches for None in Campeonato Brasileiro SÃ©rie A, scoring 9 goals in 1792 minutes with an expected goals (xG) of 6.04.",
+        "response": "I am sorry, I cannot provide information about Luiz Fernando's performance in 2017. The provided data does not include the player's name or the year/season. The data only contains the following statistics:\n    \n    *   Goals: 9\n    *   Matches: 21\n    *   Minutes Played: 1792 (or 1769 in another instance)\n    *   Shots: 54 (or 42 in another instance)\n    *   Substitutions: 7 (or 12 in another instance)\n    *   Expected Goals (xG): 6.04 (or 5.96 in another instance)\n    \n    To accurately summarize Luiz Fernando's performance in 2017, I would need data that includes the player's name and the specific year/season.\n    "
+    },
+    {
+        "question": "Summarize Lois Openda's performance in 2019.",
+        "answer": "Lois Openda played 10 matches for (VIT) in Eredivisie, scoring 5 goals in 775 minutes with an expected goals (xG) of 2.94.",
+        "response": "In 2019, Lois Openda's performance is characterized by the following statistics:\n\n*   **Goals:** 5\n*   **Matches:** 10\n*   **Minutes Played:** 775\n*   **Shots:** 28\n*   **Substitutions:** 0\n*   **Expected Goals (xG):** 2.94"
+    },
+    {
+        "question": "Summarize Sergio Leon's performance in 2017.",
+        "answer": "Sergio Leon played 23 matches for (LEV) in La Liga, scoring 11 goals in 2071 minutes with an expected goals (xG) of 11.12.",
+        "response": "In 2017, Sergio Leon's performance is characterized by the following statistics:\n \n\n *  **Goals:** 11\n *  **Matches:** 23\n *  **Minutes Played:** 2071\n *  **Shots:** 65\n *  **Substitutions:** 8\n *  **Expected Goals (xG):** 11.12\n \n\n These statistics provide a snapshot of Sergio Leon's contributions on the field during the specified year. He scored 11 goals in 23 appearances, playing a total of 2071 minutes. His shots-to-goal conversion rate can be further analyzed with the provided data. The xG value of 11.12 suggests that he performed roughly as expected in terms of goal-scoring probability based on the quality of chances he had. The 8 substitutions indicate the number of times he was taken off the field during a match."
+    },
+    {
+        "question": "Summarize Duvan Zapata's performance in 2019.",
+        "answer": "Duvan Zapata played 25 matches for (ATA) in Serie A, scoring 18 goals in 2143 minutes with an expected goals (xG) of 15.11.",
+        "response": "Duvan Zapata's performance in 2019:\n\n*   **Full Name:** Duvan Zapata\n*   **Goals:** 18\n*   **Matches:** 25\n*   **Minutes Played:** 2143\n*   **Shots:** 89\n*   **Substitutions:** 3\n*   **Expected Goals (xG):** 15.11"
+    },
+    {
+        "question": "Summarize Harry Kane's performance in 2018.",
+        "answer": "Harry Kane played 27 matches for (TOT) in Premier League, scoring 17 goals in 2580 minutes with an expected goals (xG) of 15.48.",
+        "response": "In 2018, Harry Kane's performance is characterized by the following statistics:\n\n*   **Full Name:** Harry Kane\n*   **Goals:** 17\n*   **Matches:** 27\n*   **Minutes Played:** 2580\n*   **Shots:** 102\n*   **Substitutions:** 1\n*   **Expected Goals (xG):** 15.48"
+    },
+    {
+        "question": "Summarize Bryan Linssen's performance in 2020.",
+        "answer": "Bryan Linssen played 25 matches for (FEY) in Eredivisie, scoring 14 goals in 2256 minutes with an expected goals (xG) of 8.31.",
+        "response": "In 2020, Bryan Linssen's performance is characterized by the following statistics:\n\n*   **Goals:** 14\n*   **Matches:** 25\n*   **Minutes Played:** 2256\n*   **Shots:** 92\n*   **Substitutions:** 0\n*   **Expected Goals (xG):** 8.31"
+    },
+    {
+        "question": "Summarize Bruno Henrique's performance in 2019.",
+        "answer": "Bruno Henrique played 29 matches for (FLA) in Campeonato Brasileiro SÃ©rie A, scoring 21 goals in 2822 minutes with an expected goals (xG) of 21.09.",
+        "response": "In 2019, Bruno Henrique's performance includes the following statistics:\n \n *   **Full Name:** Bruno Henrique\n *   **Goals:** 21\n *   **Matches Played:** 29\n *   **Minutes Played:** 2822\n *   **Shots:** 98\n *   **Substitutions:** 4\n *   **Expected Goals (xG):** 21.09\n \n These statistics provide a snapshot of Bruno Henrique's contributions on the field during the 2019 season, reflecting his scoring ability, playing time, and overall attacking involvement."
+    },
+    {
+        "question": "Summarize Pablo Sarabia's performance in 2018.",
+        "answer": "Pablo Sarabia played 30 matches for (PSG) in La Liga, scoring 13 goals in 2877 minutes with an expected goals (xG) of 11.81.",
+        "response": "In 2018, Pablo Sarabia's performance includes the following statistics:\n\n*   **Player Name:** Pablo Sarabia\n*   **Goals:** 13\n*   **Matches Played:** 30\n*   **Minutes Played:** 2877\n*   **Shots:** 75\n*   **Substitutions:** 3\n*   **Expected Goals (xG):** 11.81"
+    },
+    {
+        "question": "Summarize Maximilian Philipp's performance in 2016.",
+        "answer": "Maximilian Philipp played 23 matches for (WOB) in Bundesliga, scoring 9 goals in 2000 minutes with an expected goals (xG) of 6.11.",
+        "response": "In 2016, Maximilian Philipp's performance is characterized by the following statistics:\n \n\n *  **Goals:** 9\n *  **Matches:** 23\n *  **Minutes Played:** 2000\n *  **Shots:** 53\n *  **Substitutions:** 2\n *  **Expected Goals (xG):** 6.11\n \n\n These statistics provide a snapshot of Maximilian Philipp's contributions during the specified period, reflecting his scoring ability, playing time, and overall attacking involvement. The xG value suggests he outperformed his expected goal rate, indicating efficient finishing."
+    },
+    {
+        "question": "Summarize Andrea Petagna's performance in 2019.",
+        "answer": "Andrea Petagna played 33 matches for (NAP) in Serie A, scoring 12 goals in 3263 minutes with an expected goals (xG) of 13.74.",
+        "response": "In 2019, Andrea Petagna's performance is characterized by the following statistics:\n \n\n *  **Goals:** 12\n *  **Matches:** 33\n *  **Minutes Played:** 3263\n *  **Shots:** 110\n *  **Substitutions:** 3\n *  **Expected Goals (xG):** 13.74\n \n\n These statistics provide a snapshot of Andrea Petagna's contributions during the specified year, reflecting his scoring ability, playing time, and overall attacking involvement. The xG value suggests he slightly underperformed his expected goal tally."
+    },
+    {
+        "question": "Summarize Eduardo Mancha's performance in 2019.",
+        "answer": "Eduardo Mancha played 4 matches for (FAR) in Primeira Liga, scoring 2 goals in 396 minutes with an expected goals (xG) of 0.96.",
+        "response": "In 2019, Eduardo Mancha's performance includes the following statistics:\n*   **Goals:** 2\n*   **Matches:** 4\n*   **Minutes Played:** 396\n*   **Shots:** 5\n*   **Substitutions:** 0\n*   **Expected Goals (xG):** 0.96"
+    },
+    {
+        "question": "Summarize Domenico Berardi's performance in 2020.",
+        "answer": "Domenico Berardi played 8 matches for (SAS) in Serie A, scoring 4 goals in 766 minutes with an expected goals (xG) of 2.02.",
+        "response": "In 2020, Domenico Berardi's performance includes the following statistics:\n*   **Goals:** 4\n*   **Matches:** 8\n*   **Minutes Played:** 766\n*   **Shots:** 21\n*   **Substitutions:** 0\n*   **Expected Goals (xG):** 2.02"
+    },
+    {
+        "question": "Summarize Niclas Fullkrug's performance in 2017.",
+        "answer": "Niclas Fullkrug played 26 matches for (SVW) in Bundesliga, scoring 14 goals in 2507 minutes with an expected goals (xG) of 12.14.",
+        "response": "Based on the provided data, here's a summary of Niclas Fullkrug's performance:\n \n\n *  **Player:** Niclas Fullkrug\n *  **Goals:** 14\n *  **Matches Played:** 26\n *  **Minutes Played:** 2507\n *  **Shots:** 87\n *  **Substitutions:** 8\n *  **Expected Goals (xG):** 12.14\n *  **Year:** 2017\n \n\n This data suggests that in 2017, Niclas Fullkrug scored 14 goals in 26 appearances. He played a total of 2507 minutes, took 87 shots, and was substituted in 8 times. His expected goals (xG) value of 12.14 indicates that he slightly overperformed his expected goal rate, scoring more goals than statistically predicted based on the quality of his chances."
+    },
+    {
+        "question": "Summarize Douglas Tanque's performance in 2019.",
+        "answer": "Douglas Tanque played 23 matches for (FER) in Primeira Liga, scoring 11 goals in 2054 minutes with an expected goals (xG) of 7.57.",
+        "response": "Here's a summary of Douglas Tanque's performance in 2019, based on the provided data:\n\n**Douglas Tanque - 2019 Performance**\n\n*   **Goals:** 11\n*   **Matches:** 23\n*   **Minutes Played:** 2054\n*   **Shots:** 72\n*   **Substitutions:** 6\n*   **Expected Goals (xG):** 7.57\n\n*   **Goals:** 2\n*   **Matches:** 7\n*   **Minutes Played:** 644\n*   **Shots:** 25\n*   **Substitutions:** 0\n*   **Expected Goals (xG):** 2.51\n\n**Summary:**\n\nIn 2019, Douglas Tanque played in 23 matches, totaling 2054 minutes, and scored 11 goals from 72 shots. He was substituted in 6 games. His expected goals (xG) value was 7.57, indicating he outperformed his expected scoring rate. Additionally, he played 7 matches, totaling 644 minutes, and scored 2 goals from 25 shots. His expected goals (xG) value was 2.51."
+    },
+    {
+        "question": "Summarize Alex Telles 's performance in 2019.",
+        "answer": "Alex Telles  played 3 matches for None in Primeira Liga, scoring 2 goals in 280 minutes with an expected goals (xG) of 2.36.",
+        "response": "In 2019, Alex Telles played in 28 matches, accumulating 2732 minutes on the field. He scored 11 goals from 39 shots, with an expected goals (xG) value of 8.05. He was substituted 3 times during these matches."
+    },
+    {
+        "question": "Summarize Kacper Przybylko's performance in 2020.",
+        "answer": "Kacper Przybylko played 24 matches for (PHI) in MLS, scoring 8 goals in 2216 minutes with an expected goals (xG) of 8.63.",
+        "response": "In 2020, Kacper Przybylko's performance is characterized by the following statistics:\n \n\n *  **Goals:** 8\n *  **Matches:** 24\n *  **Minutes Played:** 2216\n *  **Shots:** 56\n *  **Substitutions:** 0\n *  **Expected Goals (xG):** 8.63\n \n\n These statistics indicate that Kacper Przybylko scored 8 goals in 24 matches, playing a total of 2216 minutes. He took 56 shots and had an expected goals (xG) value of 8.63, suggesting he performed slightly below expectations in terms of goal conversion. He was not substituted in any of the matches."
+    },
+    {
+        "question": "Summarize Brian Fernandez's performance in 2019.",
+        "answer": "Brian Fernandez played 16 matches for (COL) in MLS, scoring 11 goals in 1555 minutes with an expected goals (xG) of 8.18.",
+        "response": "Brian Fernandez's performance in 2019:\n\n*   **Goals:** 11\n*   **Matches:** 16\n*   **Minutes Played:** 1555\n*   **Shots:** 69\n*   **Substitutions:** 3\n*   **Expected Goals (xG):** 8.18"
+    },
+    {
+        "question": "Summarize Cyriel Dessers 's performance in 2020.",
+        "answer": "Cyriel Dessers  played 26 matches for None in Eredivisie, scoring 15 goals in 2461 minutes with an expected goals (xG) of 14.51.",
+        "response": "In 2020, Cyriel Dessers played for Heracles Almelo (Eredivisie) and KRC Genk (Jupiler Pro League). Here's a summary of his performance:\n*   **Heracles Almelo (Eredivisie):**\n    *   Matches played: 2\n*   **KRC Genk (Jupiler Pro League):**\n    *   Matches played: 14\n    *   Goals: 4"
+    },
+    {
+        "question": "Summarize Sandro Lima's performance in 2019.",
+        "answer": "Sandro Lima played 29 matches for None in Primeira Liga, scoring 10 goals in 2747 minutes with an expected goals (xG) of 10.12.",
+        "response": "In 2019, Sandro Lima's performance includes the following statistics:\n \n\n *  **Full Name:** Sandro Lima\n *  **Goals:** 10\n *  **Matches Played:** 29\n *  **Minutes Played:** 2747\n *  **Shots:** 66\n *  **Substitutions:** 3\n *  **Expected Goals (xG):** 10.12\n \n\n These statistics provide a snapshot of Sandro Lima's contributions on the field during the specified year, reflecting his scoring ability, playing time, and overall attacking involvement. The xG value being approximately equal to his actual goals scored suggests he converted chances at an expected rate."
+    },
+    {
+        "question": "Summarize Steven Berghuis's performance in 2020.",
+        "answer": "Steven Berghuis played 24 matches for (FEY) in Eredivisie, scoring 15 goals in 2226 minutes with an expected goals (xG) of 13.36.",
+        "response": "In 2020, Steven Berghuis played in 24 matches, accumulating 2226 minutes on the field. He scored 15 goals from 89 shots, with an expected goals (xG) value of 13.36. He was never substituted during these matches."
+    },
+    {
+        "question": "Summarize Gerard Moreno's performance in 2020.",
+        "answer": "Gerard Moreno played 9 matches for (VIL) in La Liga, scoring 6 goals in 822 minutes with an expected goals (xG) of 6.40.",
+        "response": "Gerard Moreno's performance in 2020 includes the following statistics:\n\n*   **Full Name:** Gerard Moreno\n*   **Goals:** 6\n*   **Matches:** 9\n*   **Minutes Played:** 822\n*   **Shots:** 29\n*   **Substitutions:** 0\n*   **Expected Goals (xG):** 6.4"
+    },
+    {
+        "question": "Summarize Paul Pogba's performance in 2018.",
+        "answer": "Paul Pogba played 34 matches for (MNU) in Premier League, scoring 13 goals in 3233 minutes with an expected goals (xG) of 15.99.",
+        "response": "Paul Pogba's performance in 2018:\n*   **Player Name:** Paul Pogba\n*   **Goals:** 13\n*   **Matches Played:** 34\n*   **Minutes Played:** 3233\n*   **Shots:** 105\n*   **Substitutions:** 1\n*   **Expected Goals (xG):** 15.99\n*   **Year:** 2018"
+    },
+    {
+        "question": "Summarize Ansu Fati's performance in 2020.",
+        "answer": "Ansu Fati played 6 matches for (BAR) in La Liga, scoring 4 goals in 451 minutes with an expected goals (xG) of 1.80.",
+        "response": "Ansu Fati's performance in 2020 is characterized by the following statistics:\n\n*   **Full Name:** Ansu Fati\n*   **Goals:** 4\n*   **Matches:** 6\n*   **Minutes Played:** 451\n*   **Shots:** 14\n*   **Substitutions:** 1\n*   **Expected Goals (xG):** 1.8\n*   **Year:** 2020"
+    },
+    {
+        "question": "Summarize Paco Alcacer's performance in 2020.",
+        "answer": "Paco Alcacer played 9 matches for (VIL) in La Liga, scoring 5 goals in 693 minutes with an expected goals (xG) of 5.11.",
+        "response": "Paco Alcacer's performance in 2020:\n*   **Player:** Paco Alcacer\n*   **Goals:** 5\n*   **Matches:** 9\n*   **Minutes Played:** 693\n*   **Shots:** 16\n*   **Substitutions:** 0\n*   **Expected Goals (xG):** 5.11"
+    },
+    {
+        "question": "Summarize Jhon Cordoba's performance in 2020.",
+        "answer": "Jhon Cordoba played 5 matches for (BSC) in Bundesliga, scoring 3 goals in 493 minutes with an expected goals (xG) of 2.23.",
+        "response": "In 2020, Jhon Cordoba's performance is characterized by the following statistics:\n*   **Full Name:** Jhon Cordoba\n*   **Goals:** 3\n*   **Matches Played:** 5\n*   **Minutes Played:** 493\n*   **Shots:** 18\n*   **Substitutions:** 2\n*   **Expected Goals (xG):** 2.23"
+    },
+    {
+        "question": "Summarize Jean-Philippe Mateta's performance in 2018.",
+        "answer": "Jean-Philippe Mateta played 29 matches for (MAI) in Bundesliga, scoring 14 goals in 2587 minutes with an expected goals (xG) of 11.71.",
+        "response": "In 2018, Jean-Philippe Mateta's performance is characterized by the following statistics:\n*   **Full Name:** Jean-Philippe Mateta\n*   **Goals:** 14\n*   **Matches Played:** 29\n*   **Minutes Played:** 2587\n*   **Shots:** 97\n*   **Substitutions:** 5\n*   **Expected Goals (xG):** 11.71"
+    },
+    {
+        "question": "Summarize Stephane Bahoken's performance in 2018.",
+        "answer": "Stephane Bahoken played 31 matches for (ANG) in France Ligue 16, scoring 11 goals in 2541 minutes with an expected goals (xG) of 8.56.",
+        "response": "In 2018, Stephane Bahoken's performance includes the following statistics:\n \n\n *  **Goals:** 11\n *  **Matches:** 31\n *  **Minutes Played:** 2541\n *  **Shots:** 66\n *  **Substitutions:** 1\n *  **Expected Goals (xG):** 8.56\n \n\n These statistics provide a summary of Stephane Bahoken's contributions during the 2018 season, reflecting his scoring ability, playing time, and overall attacking involvement. The xG value suggests he exceeded his expected goal tally, indicating efficient finishing."
+    },
+    {
+        "question": "Summarize Sassa's performance in 2016.",
+        "answer": "Sassa played 13 matches for None in Campeonato Brasileiro SÃ©rie A, scoring 12 goals in 1412 minutes with an expected goals (xG) of 11.15.",
+        "response": "Here is a summary of Sassa's performance in 2016 based on the provided data:\n\n*   **Player:** Sassa\n*   **Year:** 2016\n*   **Goals:** 12\n*   **Matches Played:** 13\n*   **Minutes Played:** 1412\n*   **Shots:** 41\n*   **Substitutions:** 13\n*   **Expected Goals (xG):** 11.15"
+    },
+    {
+        "question": "Who scored the most goals in the dataset?",
+        "answer": "Lionel Messi with 37 goals in 2016.",
+        "response": "The player who scored the most goals in the dataset is Lionel Messi.\n*   **Player Name:** Lionel Messi\n*   **Total Goals:** 135"
+    },
+    {
+        "question": "Who played the most minutes?",
+        "answer": "Diego Souza with 4177 minutes.",
+        "response": "I need more information to answer this question. The provided knowledge graph only contains the name \"Diego Souza\". To determine who played the most minutes, I need data on:\n\n*   A set of players to compare\n*   The number of minutes each player played\n*   The relevant time period (season, year, etc.) for the comparison\n*   The club or league affiliations for context\n\nOnce I have this information, I can identify the player with the most minutes played and provide a comprehensive answer."
+    },
+    {
+        "question": "Who had the highest expected goals (xG)?",
+        "answer": "Lionel Messi with an xG of 32.54.",
+        "response": "The player with the highest expected goals (xG) is Lionel Messi.\n\n*   **Player Name:** Lionel Messi\n*   **xG (Expected Goals):** 32.54"
+    },
+    {
+        "question": "Who had the most shots?",
+        "answer": "Cristiano Ronaldo with 208 shots.",
+        "response": "I need more information to answer this question. I need data about shots for specific players, seasons, and leagues from the football knowledge graph. The context only provides the name 'Cristiano Ronaldo,' but no shot data.\n\nFor example, if the knowledge graph contained data like this:\n\n```json\n[\n  {\"p.name\": \"Cristiano Ronaldo\", \"shots\": 150, \"season\": \"2023-2024\", \"club\": \"Al Nassr\", \"league\": \"Saudi Professional League\"},\n  {\"p.name\": \"Lionel Messi\", \"shots\": 130, \"season\": \"2023-2024\", \"club\": \"Inter Miami CF\", \"league\": \"Major League Soccer\"},\n  {\"p.name\": \"Cristiano Ronaldo\", \"shots\": 180, \"season\": \"2022-2023\", \"club\": \"Manchester United\", \"league\": \"Premier League\"},\n  {\"p.name\": \"Lionel Messi\", \"shots\": 120, \"season\": \"2022-2023\", \"club\": \"Paris Saint-Germain\", \"league\": \"Ligue 1\"}\n]\n```\n\nThen I could provide a detailed answer like this:\n\n**Players with the Most Shots (Example Data):**\n\nHere's a breakdown of the players with the most shots based on the provided example data:\n\n*   **Cristiano Ronaldo:**\n    *   2023-2024 Season: 150 shots (Al Nassr, Saudi Professional League)\n    *   2022-2023 Season: 180 shots (Manchester United, Premier League)\n*   **Lionel Messi:**\n    *   2023-2024 Season: 130 shots (Inter Miami CF, Major League Soccer)\n    *   2022-2023 Season: 120 shots (Paris Saint-Germain, Ligue 1)\n\n**Analysis:**\n\nBased on this example data, Cristiano Ronaldo had the most shots in the 2022-2023 season with 180 shots while playing for Manchester United in the Premier League.  Across both seasons in the example, Cristiano Ronaldo also has the highest total number of shots."
+    },
+    {
+        "question": "Who scored the most goals in 2016?",
+        "answer": "Lionel Messi with 37 goals.",
+        "response": "Here are the top goal scorers in 2016 based on the provided knowledge graph:\n\n*   **Lionel Messi:** 37 goals\n*   **Pierre-Emerick Aubameyang:** 31 goals\n*   **Robert Lewandowski:** 30 goals\n*   **Edin Dzeko:** 29 goals\n*   **Harry Kane:** 29 goals\n\nLionel Messi scored the most goals in 2016 with a total of 37."
+    },
+    {
+        "question": "Who scored the most goals in 2017?",
+        "answer": "Lionel Messi with 33 goals.",
+        "response": "Here are the top goal scorers of 2017 based on the provided knowledge graph:\n\n*   **Lionel Messi** scored **33 goals** in 2017.\n*   **Ciro Immobile** scored **29 goals** in 2017.\n*   **Robert Lewandowski** scored **29 goals** in 2017.\n*   **Mauro Icardi** scored **29 goals** in 2017.\n*   **Cristiano Ronaldo** scored **26 goals** in 2017.\n\n**Lionel Messi** was the top goal scorer in 2017 with 33 goals."
+    },
+    {
+        "question": "Who scored the most goals in 2018?",
+        "answer": "Lionel Messi with 36 goals.",
+        "response": "Based on the provided knowledge graph, here are the top goal scorers in the year 2018:\n \n\n *  **Lionel Messi**: 36 goals\n *  **Kylian Mbappe-Lottin**: 33 goals\n *  **Fabio Quagliarella**: 26 goals\n *  **Duvan Zapata**: 23 goals\n *  **Krzysztof Piatek**: 23 goals\n \n\n **Lionel Messi** scored the most goals in 2018 with a total of 36."
+    },
+    {
+        "question": "Who scored the most goals in 2019?",
+        "answer": "Carlos Vela with 36 goals.",
+        "response": "Here are the top goal scorers of 2019, according to the provided knowledge graph:\n\n*   **Carlos Vela**\n    *   Goals: 36\n    *   Year: 2019\n*   **Ciro Immobile**\n    *   Goals: 36\n    *   Year: 2019\n*   **Robert Lewandowski**\n    *   Goals: 34\n    *   Year: 2019\n*   **Zlatan Ibrahimovic**\n    *   Goals: 31\n    *   Year: 2019\n*   **Cristiano Ronaldo**\n    *   Goals: 31\n    *   Year: 2019\n\n**Carlos Vela** and **Ciro Immobile** are tied as the top goal scorers in 2019 with 36 goals each."
+    },
+    {
+        "question": "Who scored the most goals in 2020?",
+        "answer": "Thiago Galhardo with 15 goals.",
+        "response": "Here are the players who scored the most goals in 2020, according to the provided knowledge graph:\n\n*   **Thiago Galhardo:** 15 goals\n*   **Steven Berghuis:** 15 goals\n*   **Cyriel Dessers:** 15 goals\n*   **Bryan Linssen:** 14 goals\n*   **Myron Boadu:** 14 goals\n\nIt appears that Thiago Galhardo, Steven Berghuis, and Cyriel Dessers are tied for the most goals scored in 2020 based on this data."
+    }
+]
